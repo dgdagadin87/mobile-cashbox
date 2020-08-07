@@ -1,0 +1,7 @@
+{
+  "name": "mobile-cashbox",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
